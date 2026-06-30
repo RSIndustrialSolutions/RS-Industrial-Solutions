@@ -1,2 +1,2 @@
-# RS-Industrial-Solutions
+# OSI — Outeiro Soluções Industriais
 Outeiro-site
